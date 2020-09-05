@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="422b1325-d17d-49df-a748-e0a57d40474c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fig27_13_16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/libraries/hibernate_jpa_2_0_api_1_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/libraries/hibernate_release_5_0_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient$Square$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient$Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeServer$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/TicTacToeServerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/fig27_13_16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/model/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/model/StateDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fig27_13_16/persistence.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h6l0X1jgZhhLa1XV5FqfwTWNBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="422b1325-d17d-49df-a748-e0a57d40474c" name="Default Changelist" comment="" />
+      <created>1599339199247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599339199247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -7,7 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="hibernate-release-5.0.12.Final" level="project" />
-    <orderEntry type="library" name="hibernate-jpa-2.0-api-1.0.1.Final" level="project" />
   </component>
 </module>
