@@ -6,12 +6,10 @@ import utils.DAOUtils;
 
 
 import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
 import java.util.List;
 
 
-public class PositionDAO {
+public class PositionDAO extends DAOUtils {
 
     private static PositionDAO instance;
 
@@ -29,18 +27,6 @@ public class PositionDAO {
     private PositionDAO() {
 
         entityManager = getEntityManager();
-
-    }
-
-    protected EntityManager getEntityManager() {
-
-        EntityManagerFactory factory = Persistence.createEntityManagerFactory( "tictactoe" );
-
-        if ( entityManager == null ) {
-            entityManager = factory.createEntityManager();
-        }
-
-        return entityManager;
 
     }
 

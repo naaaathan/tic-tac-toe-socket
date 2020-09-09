@@ -159,17 +159,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.TicTacToeClientTest" />
       <item itemvalue="Application.TicTacToeServerTest" />
@@ -195,7 +184,8 @@
       <workItem from="1599354735622" duration="4227000" />
       <workItem from="1599359014350" duration="3090000" />
       <workItem from="1599396748690" duration="20454000" />
-      <workItem from="1599483103883" duration="2351000" />
+      <workItem from="1599483103883" duration="5945000" />
+      <workItem from="1599568925501" duration="185000" />
     </task>
     <servers />
   </component>
@@ -235,46 +225,46 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="71" y="25" width="1291" height="743" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1366.743@0.25.1366.743" timestamp="1599397414589" />
-    <state x="420" y="207" key="#xdebugger.evaluate" timestamp="1599424957840">
+    <state x="627" y="269" key="#xdebugger.evaluate" timestamp="1599486039533">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="420" y="207" key="#xdebugger.evaluate/0.25.1366.743@0.25.1366.743" timestamp="1599424957840" />
+    <state x="627" y="269" key="#xdebugger.evaluate/0.25.1366.743@0.25.1366.743" timestamp="1599486039533" />
     <state x="515" y="164" width="718" height="514" key="FileChooserDialogImpl" timestamp="1599360632672">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="515" y="164" width="718" height="514" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1599360632672" />
-    <state width="1324" height="195" key="GridCell.Tab.0.bottom" timestamp="1599485457607">
+    <state width="1324" height="211" key="GridCell.Tab.0.bottom" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="195" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599485457607" />
-    <state width="1324" height="195" key="GridCell.Tab.0.center" timestamp="1599485457604">
+    <state width="1324" height="211" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.0.center" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="195" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599485457604" />
-    <state width="1324" height="195" key="GridCell.Tab.0.left" timestamp="1599485457603">
+    <state width="1324" height="211" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.0.left" timestamp="1599490929049">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="195" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599485457603" />
-    <state width="1324" height="195" key="GridCell.Tab.0.right" timestamp="1599485457605">
+    <state width="1324" height="211" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599490929049" />
+    <state width="1324" height="211" key="GridCell.Tab.0.right" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="195" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599485457605" />
-    <state width="1324" height="211" key="GridCell.Tab.1.bottom" timestamp="1599485427680">
+    <state width="1324" height="211" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.bottom" timestamp="1599490929051">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599485427680" />
-    <state width="1324" height="211" key="GridCell.Tab.1.center" timestamp="1599485427680">
+    <state width="1324" height="211" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599490929051" />
+    <state width="1324" height="211" key="GridCell.Tab.1.center" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1599485427680" />
-    <state width="1324" height="211" key="GridCell.Tab.1.left" timestamp="1599485427679">
+    <state width="1324" height="211" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.left" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1599485427679" />
-    <state width="1324" height="211" key="GridCell.Tab.1.right" timestamp="1599485427680">
+    <state width="1324" height="211" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.right" timestamp="1599490929050">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="211" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1599485427680" />
+    <state width="1324" height="211" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
     <state width="256" height="477" key="HiddenNamespacesPopup" timestamp="1599360150644">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
@@ -309,7 +299,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sockets/TicTacToeServer.java</url>
-          <line>334</line>
+          <line>333</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

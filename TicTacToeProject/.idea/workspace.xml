@@ -20,39 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422b1325-d17d-49df-a748-e0a57d40474c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_commons_annotations_4_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javassist_3_18_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jboss_logging_3_1_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jboss_transaction_api_1_1_spec_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToeProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/StateDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SessionDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/TicTacToeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeProject/TicTacToeProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/model/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/model/StateDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$Square$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer$Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/TicTacToeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/TicTacToeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/TicTacToeClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/TicTacToeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/TicTacToeServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/TicTacToeServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/repository/PositionDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeProject/repository/PositionDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/PositionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/PositionDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +157,7 @@
       <workItem from="1599396748690" duration="20454000" />
       <workItem from="1599483103883" duration="5945000" />
       <workItem from="1599568925501" duration="185000" />
+      <workItem from="1599682811485" duration="1282000" />
     </task>
     <servers />
   </component>
@@ -205,9 +177,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="25" width="1366" height="743" key="#Assign_Data_Sources" timestamp="1599397441841">
+    <state x="0" y="25" width="196" height="217" key="#Assign_Data_Sources" timestamp="1599683275014">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
+    <state x="0" y="25" width="196" height="217" key="#Assign_Data_Sources/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1599683275014" />
     <state x="0" y="25" width="1366" height="743" key="#Assign_Data_Sources/0.25.1366.743@0.25.1366.743" timestamp="1599397441841" />
     <state x="312" y="79" width="738" height="639" key="#Inspections" timestamp="1599359992670">
       <screen x="0" y="25" width="1366" height="743" />
@@ -233,21 +206,25 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="515" y="164" width="718" height="514" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1599360632672" />
-    <state width="1324" height="211" key="GridCell.Tab.0.bottom" timestamp="1599490929050">
+    <state width="1324" height="195" key="GridCell.Tab.0.bottom" timestamp="1599683392222">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
+    <state width="1324" height="195" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1599683392222" />
     <state width="1324" height="211" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
-    <state width="1324" height="211" key="GridCell.Tab.0.center" timestamp="1599490929050">
+    <state width="1324" height="195" key="GridCell.Tab.0.center" timestamp="1599683392222">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
+    <state width="1324" height="195" key="GridCell.Tab.0.center/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1599683392222" />
     <state width="1324" height="211" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
-    <state width="1324" height="211" key="GridCell.Tab.0.left" timestamp="1599490929049">
+    <state width="1324" height="195" key="GridCell.Tab.0.left" timestamp="1599683392222">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
+    <state width="1324" height="195" key="GridCell.Tab.0.left/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1599683392222" />
     <state width="1324" height="211" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599490929049" />
-    <state width="1324" height="211" key="GridCell.Tab.0.right" timestamp="1599490929050">
+    <state width="1324" height="195" key="GridCell.Tab.0.right" timestamp="1599683392222">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
+    <state width="1324" height="195" key="GridCell.Tab.0.right/0.25.1366.743/1366.0.1920.1080@0.25.1366.743" timestamp="1599683392222" />
     <state width="1324" height="211" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
     <state width="1324" height="211" key="GridCell.Tab.1.bottom" timestamp="1599490929051">
       <screen x="0" y="25" width="1366" height="743" />
