@@ -20,26 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422b1325-d17d-49df-a748-e0a57d40474c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_core_4_2_19_Final_sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_entitymanager_4_2_19_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_commons_annotations_4_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jboss_logging_3_1_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jboss_transaction_api_1_1_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/TicTacToeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/TicTacToeClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicTacToeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToeProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/TicTacToeServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/TicTacToeServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/StateDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/StateDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/StateDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SessionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/TicTacToeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeProject/TicTacToeProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/model/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/model/StateDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$Square$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient$Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeProject/service/TicTacToeServerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/TicTacToeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/TicTacToeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/TicTacToeClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/TicTacToeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/TicTacToeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/TicTacToeServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeServerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,29 +77,68 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/hibernate-core-4.2.19.Final.jar" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-8.0.21.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.33939394" />
     <property name="settings.editor.selected.configurable" value="EclipseFormatter" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/META-INF" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TicTacToeClientTest">
     <configuration name="TicTacToeClientTest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TicTacToeClientTest" />
+      <module name="TicTacToeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="service.TicTacToeClientTest" />
       <module name="TicTacToeProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeServerTest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TicTacToeServerTest" />
+      <module name="TicTacToeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +159,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TicTacToeClientTest" />
+      <item itemvalue="Application.TicTacToeServerTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TicTacToeClientTest" />
@@ -113,7 +181,11 @@
       <workItem from="1599349837986" duration="109000" />
       <workItem from="1599352160912" duration="501000" />
       <workItem from="1599352700426" duration="1521000" />
-      <workItem from="1599354735622" duration="507000" />
+      <workItem from="1599354735622" duration="4227000" />
+      <workItem from="1599359014350" duration="3090000" />
+      <workItem from="1599396748690" duration="20454000" />
+      <workItem from="1599483103883" duration="5945000" />
+      <workItem from="1599568925501" duration="185000" />
     </task>
     <servers />
   </component>
@@ -133,33 +205,109 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="154" y="141" width="718" height="514" key="FileChooserDialogImpl" timestamp="1599355239150">
+    <state x="0" y="25" width="1366" height="743" key="#Assign_Data_Sources" timestamp="1599397441841">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="154" y="141" width="718" height="514" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1599355239150" />
-    <state width="1324" height="169" key="GridCell.Tab.0.bottom" timestamp="1599353045823">
+    <state x="0" y="25" width="1366" height="743" key="#Assign_Data_Sources/0.25.1366.743@0.25.1366.743" timestamp="1599397441841" />
+    <state x="312" y="79" width="738" height="639" key="#Inspections" timestamp="1599359992670">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="169" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599353045823" />
-    <state width="1324" height="169" key="GridCell.Tab.0.center" timestamp="1599353045823">
+    <state x="312" y="79" width="738" height="639" key="#Inspections/0.25.1366.743@0.25.1366.743" timestamp="1599359992670" />
+    <state x="0" y="39" width="939" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599418393386">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="169" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599353045823" />
-    <state width="1324" height="169" key="GridCell.Tab.0.left" timestamp="1599353045822">
+    <state x="0" y="39" width="939" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1599418393386" />
+    <state x="491" y="85" width="380" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1599422659040">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="169" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599353045822" />
-    <state width="1324" height="169" key="GridCell.Tab.0.right" timestamp="1599353045823">
+    <state x="491" y="85" width="380" height="628" key="#com.intellij.ide.util.MemberChooser/0.25.1366.743@0.25.1366.743" timestamp="1599422659040" />
+    <state x="71" y="25" width="1291" height="743" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599397414589">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1324" height="169" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599353045823" />
-    <state x="266" y="135" width="830" height="527" key="IDE.errors.dialog" timestamp="1599349849341">
+    <state x="71" y="25" width="1291" height="743" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1366.743@0.25.1366.743" timestamp="1599397414589" />
+    <state x="627" y="269" key="#xdebugger.evaluate" timestamp="1599486039533">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="266" y="135" width="830" height="527" key="IDE.errors.dialog/0.25.1366.743@0.25.1366.743" timestamp="1599349849341" />
-    <state x="0" y="25" width="1366" height="743" key="SettingsEditor" timestamp="1599355243035">
+    <state x="627" y="269" key="#xdebugger.evaluate/0.25.1366.743@0.25.1366.743" timestamp="1599486039533" />
+    <state x="515" y="164" width="718" height="514" key="FileChooserDialogImpl" timestamp="1599360632672">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="0" y="25" width="1366" height="743" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1599355243035" />
+    <state x="515" y="164" width="718" height="514" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1599360632672" />
+    <state width="1324" height="211" key="GridCell.Tab.0.bottom" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.0.center" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.0.left" timestamp="1599490929049">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599490929049" />
+    <state width="1324" height="211" key="GridCell.Tab.0.right" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.bottom" timestamp="1599490929051">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599490929051" />
+    <state width="1324" height="211" key="GridCell.Tab.1.center" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.left" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="1324" height="211" key="GridCell.Tab.1.right" timestamp="1599490929050">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="211" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1599490929050" />
+    <state width="256" height="477" key="HiddenNamespacesPopup" timestamp="1599360150644">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="256" height="477" key="HiddenNamespacesPopup/0.25.1366.743@0.25.1366.743" timestamp="1599360150644" />
+    <state x="266" y="135" width="830" height="527" key="IDE.errors.dialog" timestamp="1599359978561">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="266" y="135" width="830" height="527" key="IDE.errors.dialog/0.25.1366.743@0.25.1366.743" timestamp="1599359978561" />
+    <state x="0" y="25" width="1366" height="743" key="SettingsEditor" timestamp="1599360636821">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="0" y="25" width="1366" height="743" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1599360636821" />
+    <state width="684" height="372" key="XDebugger.FullValuePopup" timestamp="1599418204418">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="684" height="372" key="XDebugger.FullValuePopup/0.25.1366.743@0.25.1366.743" timestamp="1599418204418" />
+    <state x="288" y="25" width="931" height="678" key="dock-window-1" timestamp="1599484809808">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="288" y="25" width="931" height="678" key="dock-window-1/0.25.1366.743@0.25.1366.743" timestamp="1599484809808" />
+    <state x="416" y="185" width="530" height="427" key="extract.method.dialog" timestamp="1599425364974">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="416" y="185" width="530" height="427" key="extract.method.dialog/0.25.1366.743@0.25.1366.743" timestamp="1599425364974" />
+    <state x="375" y="99" width="991" height="555" key="find.popup" timestamp="1599359375686">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="375" y="99" width="991" height="555" key="find.popup/0.25.1366.743@0.25.1366.743" timestamp="1599359375686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sockets/TicTacToeServer.java</url>
+          <line>333</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TicTacToeProject$TicTacToeClientTest.ic" NAME="TicTacToeClientTest Coverage Results" MODIFIED="1599485275081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
   </component>
 </project>
